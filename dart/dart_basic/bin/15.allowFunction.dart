@@ -18,4 +18,5 @@ int addNumber1(int a, {required int b, int c = 200}){
   return sum;
 }
 
+// 리턴값만 존재할 때 화살표 함수 사용
 int addNumber(int a, {required int b, int c = 20000}) => a+b+c;
