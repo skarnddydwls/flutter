@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter01_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter01_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter01_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter03_state/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter03_state/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter03_state/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter04_permission/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter05_instagram/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter05_instagram/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter05_instagram/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -23,7 +23,6 @@ class _MyAppState extends State<MyApp> {
     setState(() {
       name.add(input);
     });
-    print(name);
   }
   
   @override
@@ -31,7 +30,7 @@ class _MyAppState extends State<MyApp> {
     return Scaffold(
       appBar: AppBar(
         leading: Icon(Icons.list),
-        title: Text('전화번호부'),
+        title: Text('전화번호부 ${name.length}명'),
         actions: [
           Icon(Icons.search),
           Padding(padding: EdgeInsets.only(right: 10)),
@@ -84,7 +83,7 @@ class Bottom extends StatelessWidget {
 class CustomDialog extends StatelessWidget {
   CustomDialog({super.key, this.nameState});
   final nameState;
-  var inputData = TextEditingController();
+
   var inputData2 = '';
 
   @override
